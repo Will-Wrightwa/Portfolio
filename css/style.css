@@ -9,12 +9,26 @@
             display: inline-block;
             color: white;
             position: relative;
-            padding:0px 25px;
-            top: 50%;
-            transform: translateY(-50%);
             padding:0px 50px;
+            border-right: solid gray 1px;
         }
         #header li h3{
             margin: 0px;
             padding-right: 25px;
+        }
+    img{
+        width:10%;
+        vertical-align: top;
+        margin-top: 75px;
+    }
+    #about_me{
+        display: inline-block;
+        width:89%;
+        padding:10px;
+    }
+    #main_area{
+            padding: 0 25%;
+        }
+        #contacts{
+            text-align: center;
         }
