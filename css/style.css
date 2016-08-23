@@ -1,2 +1,20 @@
-#wrapper{}
-    
+#wrapper{
+
+}
+    #header{
+        height: 40px;
+        background-color: #0e1628;
+    }
+        #header li{
+            display: inline-block;
+            color: white;
+            position: relative;
+            padding:0px 25px;
+            top: 50%;
+            transform: translateY(-50%);
+            padding:0px 50px;
+        }
+        #header li h3{
+            margin: 0px;
+            padding-right: 25px;
+        }
